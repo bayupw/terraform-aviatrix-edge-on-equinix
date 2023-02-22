@@ -12,7 +12,7 @@ See the [Developer Platform](https://developer.equinix.com/docs?page=/dev-docs/f
 ## Sample usage
 
 ```hcl
-module "aviatrix-edge" {
+module "edge-on-equinix" {
   source          = "bayupw/edge-on-equinix/aviatrix"
   version         = "1.0.0"
 
