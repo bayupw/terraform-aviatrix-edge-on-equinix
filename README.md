@@ -2,7 +2,7 @@
 
 Terraform module for creating Aviatrix Edge Gateway on Aviatrix Controller and deploying Aviatrix Edge on Equinix.
 
-To run this project, you will need to set the following environment variables or the [shared configuration and credentials files](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html).
+To run this project, you will need to set the following environment variables or configure it under the provider block.
 - EQUINIX_API_CLIENTID
 - EQUINIX_API_CLIENTSECRET
 - AVIATRIX_CONTROLLER_IP
