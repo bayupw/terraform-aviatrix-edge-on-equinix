@@ -1,7 +1,5 @@
 # Terraform Aviatrix Edge on Equinix
 
-Terraform module for creating Aviatrix Edge Gateway on Aviatrix Controller and deploying Aviatrix Edge on Equinix.
-
 To run this project, you will need to set the following environment variables or configure it under the provider block.
 - EQUINIX_API_CLIENTID
 - EQUINIX_API_CLIENTSECRET
