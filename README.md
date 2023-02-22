@@ -26,7 +26,7 @@ module "aviatrix-edge" {
   metro_code                     = "NY"
   core_count                     = 2
   device_name                    = "edge-on-equinix"
-  notifications                  = ["myemail@equinix.com"]
+  notifications                  = ["myemail@aviatrix.com"]
   create_acl                     = false
   acl_template_id                = "fee881d0-c9fe-7248-86da-43890c913a13"
   device_version                 = "6.9"
